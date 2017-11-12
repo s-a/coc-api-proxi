@@ -1,0 +1,3648 @@
+[{
+    "name": "legalize",
+    "troops": {
+        "Barbarian": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Archer": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Goblin": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Giant": {
+            "level": 7,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Wall Breaker": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Balloon": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 7,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 5,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "P.E.K.K.A": {
+            "level": 5,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Minion": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Hog Rider": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Valkyrie": {
+            "level": 5,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Golem": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Witch": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Bowler": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Miner": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Healing Spell": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 3,
+            "maxedOutLevel": 3,
+            "maxLevel": 3
+        },
+        "Freeze Spell": {
+            "level": 5,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Earthquake Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Haste Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Clone Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Skeleton Spell": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 25,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 33,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "Mike",
+    "troops": {
+        "Barbarian": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Giant": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Minion": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Hog Rider": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Witch": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Bowler": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Miner": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Healing Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 3
+        },
+        "Freeze Spell": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Earthquake Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Haste Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Clone Spell": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Skeleton Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 10,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 9,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "kickass",
+    "troops": {
+        "Barbarian": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Archer": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Goblin": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Giant": {
+            "level": 8,
+            "maxedOutLevel": 8,
+            "maxLevel": 8
+        },
+        "Wall Breaker": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Balloon": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Wizard": {
+            "level": 7,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Healer": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 5,
+            "maxedOutLevel": 6,
+            "maxLevel": 6
+        },
+        "P.E.K.K.A": {
+            "level": 6,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Minion": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Hog Rider": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Valkyrie": {
+            "level": 5,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Golem": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Witch": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 3
+        },
+        "Lava Hound": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Bowler": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 3
+        },
+        "Baby Dragon": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Miner": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Healing Spell": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 3,
+            "maxedOutLevel": 3,
+            "maxLevel": 3
+        },
+        "Freeze Spell": {
+            "level": 6,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Earthquake Spell": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Haste Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Clone Spell": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Skeleton Spell": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 44,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 30,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        },
+        "Grand Warden": {
+            "level": 7,
+            "maxedOutLevel": 20,
+            "maxLevel": 10
+        }
+    }
+}, {
+    "name": "Birzel",
+    "troops": {
+        "Barbarian": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Archer": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Giant": {
+            "level": 7,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Wall Breaker": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Balloon": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 7,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 5,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "P.E.K.K.A": {
+            "level": 5,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Minion": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Hog Rider": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Valkyrie": {
+            "level": 5,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Golem": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Witch": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Bowler": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Miner": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Healing Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 3,
+            "maxedOutLevel": 3,
+            "maxLevel": 3
+        },
+        "Freeze Spell": {
+            "level": 5,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Earthquake Spell": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Haste Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Clone Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Skeleton Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 25,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 29,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "Lord Andy",
+    "troops": {
+        "Barbarian": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Giant": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Balloon": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Minion": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Hog Rider": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Valkyrie": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Golem": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Witch": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Baby Dragon": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Miner": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Healing Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 3
+        },
+        "Freeze Spell": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Earthquake Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Haste Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Clone Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Skeleton Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 12,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 12,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "ProGamer",
+    "troops": {
+        "Barbarian": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Archer": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Giant": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "P.E.K.K.A": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Hog Rider": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Valkyrie": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "Golem": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Witch": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Freeze Spell": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 1
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Earthquake Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 10,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 10,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "KeksScherz",
+    "troops": {
+        "Barbarian": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Archer": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Goblin": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Giant": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Hog Rider": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Valkyrie": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "Golem": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Witch": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Healing Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Freeze Spell": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 1
+        },
+        "Poison Spell": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Earthquake Spell": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Haste Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        },
+        "Skeleton Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 1
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 20,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 20,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "mutlu",
+    "troops": {
+        "Barbarian": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Archer": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Hog Rider": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Valkyrie": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "Golem": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Witch": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Freeze Spell": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 1
+        },
+        "Poison Spell": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Earthquake Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Haste Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        },
+        "Skeleton Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 1
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 10,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 8,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "Marius",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Goblin": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Giant": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Healer": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Hog Rider": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Witch": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Freeze Spell": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 1
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Earthquake Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Haste Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 10,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 6,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "REACTIONALPHA",
+    "troops": {
+        "Barbarian": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Archer": {
+            "level": 7,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Goblin": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Giant": {
+            "level": 7,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Balloon": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 7,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Minion": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Hog Rider": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Valkyrie": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Golem": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Witch": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Bowler": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Healing Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 3
+        },
+        "Freeze Spell": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Earthquake Spell": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Haste Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Clone Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 25,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 22,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "Salem1995",
+    "troops": {
+        "Barbarian": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Archer": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Goblin": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Giant": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Balloon": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Minion": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Hog Rider": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Valkyrie": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Golem": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Witch": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Baby Dragon": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Healing Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 3
+        },
+        "Freeze Spell": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Earthquake Spell": {
+            "level": 3,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Haste Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Skeleton Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 15,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 19,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "gakgaker",
+    "troops": {
+        "Barbarian": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Archer": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Goblin": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Giant": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Balloon": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 7
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Minion": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Hog Rider": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Valkyrie": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Golem": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Witch": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Baby Dragon": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 7
+        },
+        "Healing Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 3
+        },
+        "Freeze Spell": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Earthquake Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        },
+        "Haste Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 4
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 15,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 16,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "Don Castro",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Goblin": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Giant": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Healer": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Hog Rider": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "Golem": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Witch": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Healing Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Freeze Spell": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 1
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Earthquake Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 10,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 14,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "Segloras",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "P.E.K.K.A": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Valkyrie": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Golem": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Earthquake Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 10,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "Wesd du doch ni",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Earthquake Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 8,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "jonatan_v",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 4,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 4,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "P.E.K.K.A": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 6,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "opop",
+    "troops": {
+        "Barbarian": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "P.E.K.K.A": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 5,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "Gurkencrafter",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Earthquake Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 7,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "der Tod",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Earthquake Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 10,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "Bluefire",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Valkyrie": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Earthquake Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 10,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "tom",
+    "troops": {
+        "Barbarian": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Archer": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "P.E.K.K.A": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Hog Rider": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Witch": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Freeze Spell": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 1
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Earthquake Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        },
+        "Haste Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        },
+        "Skeleton Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 1
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 7,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 4,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "Mysterion",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Earthquake Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 9,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "KSfreak",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 3,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Earthquake Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 7,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "TheLoher",
+    "troops": {
+        "Barbarian": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 4,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 4,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 5,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "HanzoMain",
+    "troops": {
+        "Barbarian": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Archer": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Giant": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Wizard": {
+            "level": 6,
+            "maxedOutLevel": 8,
+            "maxLevel": 6
+        },
+        "Healer": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        },
+        "Dragon": {
+            "level": 4,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "P.E.K.K.A": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Hog Rider": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Valkyrie": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 4
+        },
+        "Golem": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Witch": {
+            "level": 1,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Lava Hound": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        },
+        "Baby Dragon": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Healing Spell": {
+            "level": 6,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Jump Spell": {
+            "level": 2,
+            "maxedOutLevel": 3,
+            "maxLevel": 2
+        },
+        "Freeze Spell": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 1
+        },
+        "Poison Spell": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Earthquake Spell": {
+            "level": 2,
+            "maxedOutLevel": 4,
+            "maxLevel": 3
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 10,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        },
+        "Archer Queen": {
+            "level": 8,
+            "maxedOutLevel": 45,
+            "maxLevel": 8
+        }
+    }
+}, {
+    "name": "X CLASHER X",
+    "troops": {
+        "Barbarian": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Archer": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Goblin": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Giant": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Wall Breaker": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Balloon": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Wizard": {
+            "level": 5,
+            "maxedOutLevel": 8,
+            "maxLevel": 5
+        },
+        "Healer": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 3
+        },
+        "Dragon": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "P.E.K.K.A": {
+            "level": 3,
+            "maxedOutLevel": 6,
+            "maxLevel": 3
+        },
+        "Minion": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Hog Rider": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Valkyrie": {
+            "level": 1,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Golem": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 5
+        },
+        "Healing Spell": {
+            "level": 5,
+            "maxedOutLevel": 7,
+            "maxLevel": 6
+        },
+        "Rage Spell": {
+            "level": 5,
+            "maxedOutLevel": 5,
+            "maxLevel": 5
+        },
+        "Poison Spell": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Earthquake Spell": {
+            "level": 1,
+            "maxedOutLevel": 4,
+            "maxLevel": 2
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 8,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "Andyboxer",
+    "troops": {
+        "Barbarian": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Archer": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Goblin": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Giant": {
+            "level": 4,
+            "maxedOutLevel": 8,
+            "maxLevel": 4
+        },
+        "Wall Breaker": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Balloon": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Wizard": {
+            "level": 4,
+            "maxedOutLevel": 8,
+            "maxLevel": 4
+        },
+        "Healer": {
+            "level": 1,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Minion": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Healing Spell": {
+            "level": 3,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 2,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "andi",
+    "troops": {
+        "Barbarian": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Archer": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Goblin": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Giant": {
+            "level": 4,
+            "maxedOutLevel": 8,
+            "maxLevel": 4
+        },
+        "Wall Breaker": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Balloon": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Wizard": {
+            "level": 4,
+            "maxedOutLevel": 8,
+            "maxLevel": 4
+        },
+        "Healer": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Dragon": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Minion": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        },
+        "Hog Rider": {
+            "level": 1,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Healing Spell": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Rage Spell": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 3,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}, {
+    "name": "MEGA MONSTER",
+    "troops": {
+        "Barbarian": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Archer": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Goblin": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Giant": {
+            "level": 4,
+            "maxedOutLevel": 8,
+            "maxLevel": 4
+        },
+        "Wall Breaker": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Balloon": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Wizard": {
+            "level": 4,
+            "maxedOutLevel": 8,
+            "maxLevel": 4
+        },
+        "Healer": {
+            "level": 2,
+            "maxedOutLevel": 5,
+            "maxLevel": 2
+        },
+        "Dragon": {
+            "level": 2,
+            "maxedOutLevel": 6,
+            "maxLevel": 2
+        },
+        "Minion": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        },
+        "Hog Rider": {
+            "level": 2,
+            "maxedOutLevel": 7,
+            "maxLevel": 2
+        }
+    },
+    "spells": {
+        "Lightning Spell": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Healing Spell": {
+            "level": 4,
+            "maxedOutLevel": 7,
+            "maxLevel": 4
+        },
+        "Rage Spell": {
+            "level": 4,
+            "maxedOutLevel": 5,
+            "maxLevel": 4
+        }
+    },
+    "heroes": {
+        "Barbarian King": {
+            "level": 5,
+            "maxedOutLevel": 45,
+            "maxLevel": 7
+        }
+    }
+}]
