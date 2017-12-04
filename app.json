@@ -1,0 +1,7 @@
+{
+    "name": "coc-api-proxi",
+    "description": "coc-api-proxi",
+    "repository": "https://github.com/s-a/coc-api-proxi",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["node", "express", "static"]
+}
